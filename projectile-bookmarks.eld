@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/sites/tepic/funeraria/" "~/sites/99minutos/shipments-snapshot-service/")

@@ -1,0 +1,6 @@
+straight
+custom.el
+*~
+auto-save-list
+projectile-bookmarks.eld
+session.*
